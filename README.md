@@ -2,7 +2,7 @@
 
 This is a simple **28-day Excel Habit Tracker** designed to help you build and maintain daily habits.
 
-![Habit Tracker Screenshot](https://github.com/kibria-chowdhury/28-Days-Habit-Tracker/blob/main/28%20days%20habit.png)
+![Habit Tracker Screenshot](https://github.com/kibria-chowdhury/28-Days-Habit-Tracker/blob/main/Habit%20Tracker.jpg)
 
 1. Track progress day by day
 2. Stay consistent for 4 weeks  
